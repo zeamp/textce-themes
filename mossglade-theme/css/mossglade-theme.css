@@ -1,0 +1,35 @@
+/* Mossglade - MIT License */
+:root{
+  --tc-bg:#1A2C21;
+  --tc-bg-alt:#15241C;
+  --tc-bg-deep:#0F1A14;
+  --tc-paper:#234131;
+  --tc-border:#2B4735;
+  --tc-fg:#C8E6C9;
+  --tc-muted:#A9C5AB;
+  --tc-faint:#869F89;
+  --tc-accent:#7CB342;
+  --tc-accent-deep:#7CB342;
+  --tc-highlight:#FFCE1B;
+  --tc-selection:#39572C;
+  --tc-red:#D19261;
+  --tc-green:#85D671;
+  --tc-yellow:#BED671;
+  --tc-blue:#61D1CA;
+  --tc-magenta:#D97D9B;
+  --tc-cyan:#71D6A0;
+  --tc-orange:#D1AC61;
+  --tc-error:#DCA87F;
+  --tc-warning:#D1AC61;
+  --tc-success:#85D671;
+  --tc-nick-1:#5CA0FF;
+  --tc-nick-2:#FF5050;
+  --tc-nick-3:#30D060;
+  --tc-nick-4:#E0A030;
+  --tc-nick-5:#C070F0;
+  --tc-nick-6:#00917F;
+  color-scheme:dark;
+}
+body{background:var(--tc-bg);color:var(--tc-fg)}
+a{color:var(--tc-accent-deep)}
+::selection{background:var(--tc-selection)}

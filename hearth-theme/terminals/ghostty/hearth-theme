@@ -1,0 +1,23 @@
+# Hearth - MIT License
+background = 262626
+foreground = EBDBB2
+cursor-color = FABD2F
+cursor-text = 262626
+selection-background = 6A5629
+selection-foreground = EBDBB2
+palette = 0=#3A3634
+palette = 1=#DC7A6A
+palette = 2=#D5DC6A
+palette = 3=#DCB26A
+palette = 4=#5AC7D8
+palette = 5=#DF778F
+palette = 6=#6EDC6A
+palette = 7=#D4C5A0
+palette = 8=#797261
+palette = 9=#E69689
+palette = 10=#E0E689
+palette = 11=#E6C489
+palette = 12=#79D4E2
+palette = 13=#E896A9
+palette = 14=#8DE689
+palette = 15=#F4EBD5

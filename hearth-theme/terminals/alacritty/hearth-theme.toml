@@ -1,0 +1,32 @@
+# Hearth - MIT License
+[colors.primary]
+background = "#262626"
+foreground = "#EBDBB2"
+
+[colors.cursor]
+text = "#262626"
+cursor = "#FABD2F"
+
+[colors.selection]
+text = "#EBDBB2"
+background = "#6A5629"
+
+[colors.normal]
+black = "#3A3634"
+red = "#DC7A6A"
+green = "#D5DC6A"
+yellow = "#DCB26A"
+blue = "#5AC7D8"
+magenta = "#DF778F"
+cyan = "#6EDC6A"
+white = "#D4C5A0"
+
+[colors.bright]
+black = "#797261"
+red = "#E69689"
+green = "#E0E689"
+yellow = "#E6C489"
+blue = "#79D4E2"
+magenta = "#E896A9"
+cyan = "#8DE689"
+white = "#F4EBD5"

@@ -1,0 +1,28 @@
+{
+  "name": "hearth-theme",
+  "displayName": "Hearth",
+  "description": "Hearth: a Textce color theme.",
+  "version": "1.0.0",
+  "publisher": "textce",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "textce"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hearth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hearth-theme-color-theme.json"
+      }
+    ]
+  }
+}

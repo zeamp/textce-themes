@@ -1,0 +1,32 @@
+# Bookshelf Night - MIT License
+[colors.primary]
+background = "#231D19"
+foreground = "#E6DBCF"
+
+[colors.cursor]
+text = "#231D19"
+cursor = "#EFCB8A"
+
+[colors.selection]
+text = "#E6DBCF"
+background = "#4A3F2E"
+
+[colors.normal]
+black = "#433830"
+red = "#E0786B"
+green = "#9CC27A"
+yellow = "#EFCB8A"
+blue = "#7FB2D1"
+magenta = "#C79BC7"
+cyan = "#5CC4B7"
+white = "#DCCEC3"
+
+[colors.bright]
+black = "#6B5A4C"
+red = "#F08F82"
+green = "#B2D68F"
+yellow = "#F5DBA3"
+blue = "#9AC7E3"
+magenta = "#DDB4DD"
+cyan = "#7DD8CC"
+white = "#F3EBE1"

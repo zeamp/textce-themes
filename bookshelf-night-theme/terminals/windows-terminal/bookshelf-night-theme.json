@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Bookshelf Night",
+            "background": "#231D19",
+            "foreground": "#E6DBCF",
+            "cursorColor": "#EFCB8A",
+            "selectionBackground": "#4A3F2E",
+            "black": "#433830",
+            "brightBlack": "#6B5A4C",
+            "red": "#E0786B",
+            "brightRed": "#F08F82",
+            "green": "#9CC27A",
+            "brightGreen": "#B2D68F",
+            "yellow": "#EFCB8A",
+            "brightYellow": "#F5DBA3",
+            "blue": "#7FB2D1",
+            "brightBlue": "#9AC7E3",
+            "purple": "#C79BC7",
+            "brightPurple": "#DDB4DD",
+            "cyan": "#5CC4B7",
+            "brightCyan": "#7DD8CC",
+            "white": "#DCCEC3",
+            "brightWhite": "#F3EBE1"
+        }
+    ]
+}

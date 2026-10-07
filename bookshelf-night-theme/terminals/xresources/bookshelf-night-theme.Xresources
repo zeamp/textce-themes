@@ -1,0 +1,20 @@
+! Bookshelf Night - MIT License
+*.background: #231D19
+*.foreground: #E6DBCF
+*.cursorColor: #EFCB8A
+*.color0: #433830
+*.color1: #E0786B
+*.color2: #9CC27A
+*.color3: #EFCB8A
+*.color4: #7FB2D1
+*.color5: #C79BC7
+*.color6: #5CC4B7
+*.color7: #DCCEC3
+*.color8: #6B5A4C
+*.color9: #F08F82
+*.color10: #B2D68F
+*.color11: #F5DBA3
+*.color12: #9AC7E3
+*.color13: #DDB4DD
+*.color14: #7DD8CC
+*.color15: #F3EBE1

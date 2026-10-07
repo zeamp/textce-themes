@@ -1,0 +1,15 @@
+# Bookshelf Night - MIT License
+[colors]
+foreground = "#E6DBCF"
+background = "#231D19"
+cursor_bg = "#EFCB8A"
+cursor_fg = "#231D19"
+cursor_border = "#EFCB8A"
+selection_fg = "#E6DBCF"
+selection_bg = "#4A3F2E"
+ansi = ["#433830", "#E0786B", "#9CC27A", "#EFCB8A", "#7FB2D1", "#C79BC7", "#5CC4B7", "#DCCEC3"]
+brights = ["#6B5A4C", "#F08F82", "#B2D68F", "#F5DBA3", "#9AC7E3", "#DDB4DD", "#7DD8CC", "#F3EBE1"]
+
+[metadata]
+name = "Bookshelf Night"
+author = "Textce"

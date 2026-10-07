@@ -1,0 +1,15 @@
+# Glacier - MIT License
+[colors]
+foreground = "#D8DEE9"
+background = "#2C323D"
+cursor_bg = "#88C0D0"
+cursor_fg = "#2C323D"
+cursor_border = "#88C0D0"
+selection_fg = "#D8DEE9"
+selection_bg = "#495F6C"
+ansi = ["#40495A", "#DEAFB6", "#BEE4D1", "#E4DFBE", "#AFCBDE", "#C5AFDE", "#BEDFE4", "#C2C8D2"]
+brights = ["#747A85", "#EBCBD0", "#DAF0E5", "#F0EEDA", "#CBDEEB", "#DACBEB", "#DAEEF0", "#EAEDF3"]
+
+[metadata]
+name = "Glacier"
+author = "Textce"

@@ -1,0 +1,20 @@
+! Glacier - MIT License
+*.background: #2C323D
+*.foreground: #D8DEE9
+*.cursorColor: #88C0D0
+*.color0: #40495A
+*.color1: #DEAFB6
+*.color2: #BEE4D1
+*.color3: #E4DFBE
+*.color4: #AFCBDE
+*.color5: #C5AFDE
+*.color6: #BEDFE4
+*.color7: #C2C8D2
+*.color8: #747A85
+*.color9: #EBCBD0
+*.color10: #DAF0E5
+*.color11: #F0EEDA
+*.color12: #CBDEEB
+*.color13: #DACBEB
+*.color14: #DAEEF0
+*.color15: #EAEDF3

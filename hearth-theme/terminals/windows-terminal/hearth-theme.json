@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Hearth",
+            "background": "#262626",
+            "foreground": "#EBDBB2",
+            "cursorColor": "#FABD2F",
+            "selectionBackground": "#6A5629",
+            "black": "#3A3634",
+            "brightBlack": "#797261",
+            "red": "#DC7A6A",
+            "brightRed": "#E69689",
+            "green": "#D5DC6A",
+            "brightGreen": "#E0E689",
+            "yellow": "#DCB26A",
+            "brightYellow": "#E6C489",
+            "blue": "#5AC7D8",
+            "brightBlue": "#79D4E2",
+            "purple": "#DF778F",
+            "brightPurple": "#E896A9",
+            "cyan": "#6EDC6A",
+            "brightCyan": "#8DE689",
+            "white": "#D4C5A0",
+            "brightWhite": "#F4EBD5"
+        }
+    ]
+}

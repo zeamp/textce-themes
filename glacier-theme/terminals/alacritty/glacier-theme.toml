@@ -1,0 +1,32 @@
+# Glacier - MIT License
+[colors.primary]
+background = "#2C323D"
+foreground = "#D8DEE9"
+
+[colors.cursor]
+text = "#2C323D"
+cursor = "#88C0D0"
+
+[colors.selection]
+text = "#D8DEE9"
+background = "#495F6C"
+
+[colors.normal]
+black = "#40495A"
+red = "#DEAFB6"
+green = "#BEE4D1"
+yellow = "#E4DFBE"
+blue = "#AFCBDE"
+magenta = "#C5AFDE"
+cyan = "#BEDFE4"
+white = "#C2C8D2"
+
+[colors.bright]
+black = "#747A85"
+red = "#EBCBD0"
+green = "#DAF0E5"
+yellow = "#F0EEDA"
+blue = "#CBDEEB"
+magenta = "#DACBEB"
+cyan = "#DAEEF0"
+white = "#EAEDF3"

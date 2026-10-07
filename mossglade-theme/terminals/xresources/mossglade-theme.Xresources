@@ -1,0 +1,20 @@
+! Mossglade - MIT License
+*.background: #1A2C21
+*.foreground: #C8E6C9
+*.cursorColor: #7CB342
+*.color0: #2B4735
+*.color1: #D19261
+*.color2: #85D671
+*.color3: #BED671
+*.color4: #61D1CA
+*.color5: #D97D9B
+*.color6: #71D6A0
+*.color7: #B4CFB5
+*.color8: #637A68
+*.color9: #DCA87F
+*.color10: #9FE18F
+*.color11: #CDE18F
+*.color12: #7FDCD6
+*.color13: #E49BB3
+*.color14: #8FE1B5
+*.color15: #E1F1E1

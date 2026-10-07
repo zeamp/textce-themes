@@ -1,0 +1,18 @@
+{
+  "name": "Hearth",
+  "author": "Textce",
+  "base": "textceDark",
+  "appearance": "dark",
+  "colors": {
+    "chatBackground": "#262626",
+    "text": "#EBDBB2",
+    "event": "#83A598",
+    "link": "#83A598",
+    "mention": "#FFCE1B",
+    "accent": "#FABD2F",
+    "userlistBackground": "#1C1F20",
+    "sidebarBackground": "#1C1F20",
+    "inputBackground": "#302E2D",
+    "divider": "#3A3634"
+  }
+}

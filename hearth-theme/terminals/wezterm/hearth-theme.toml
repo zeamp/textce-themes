@@ -1,0 +1,15 @@
+# Hearth - MIT License
+[colors]
+foreground = "#EBDBB2"
+background = "#262626"
+cursor_bg = "#FABD2F"
+cursor_fg = "#262626"
+cursor_border = "#FABD2F"
+selection_fg = "#EBDBB2"
+selection_bg = "#6A5629"
+ansi = ["#3A3634", "#DC7A6A", "#D5DC6A", "#DCB26A", "#5AC7D8", "#DF778F", "#6EDC6A", "#D4C5A0"]
+brights = ["#797261", "#E69689", "#E0E689", "#E6C489", "#79D4E2", "#E896A9", "#8DE689", "#F4EBD5"]
+
+[metadata]
+name = "Hearth"
+author = "Textce"

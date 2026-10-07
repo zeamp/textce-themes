@@ -1,0 +1,23 @@
+# Mossglade - MIT License
+background = 1A2C21
+foreground = C8E6C9
+cursor-color = 7CB342
+cursor-text = 1A2C21
+selection-background = 39572C
+selection-foreground = C8E6C9
+palette = 0=#2B4735
+palette = 1=#D19261
+palette = 2=#85D671
+palette = 3=#BED671
+palette = 4=#61D1CA
+palette = 5=#D97D9B
+palette = 6=#71D6A0
+palette = 7=#B4CFB5
+palette = 8=#637A68
+palette = 9=#DCA87F
+palette = 10=#9FE18F
+palette = 11=#CDE18F
+palette = 12=#7FDCD6
+palette = 13=#E49BB3
+palette = 14=#8FE1B5
+palette = 15=#E1F1E1

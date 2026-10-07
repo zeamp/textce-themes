@@ -1,0 +1,15 @@
+# Mossglade - MIT License
+[colors]
+foreground = "#C8E6C9"
+background = "#1A2C21"
+cursor_bg = "#7CB342"
+cursor_fg = "#1A2C21"
+cursor_border = "#7CB342"
+selection_fg = "#C8E6C9"
+selection_bg = "#39572C"
+ansi = ["#2B4735", "#D19261", "#85D671", "#BED671", "#61D1CA", "#D97D9B", "#71D6A0", "#B4CFB5"]
+brights = ["#637A68", "#DCA87F", "#9FE18F", "#CDE18F", "#7FDCD6", "#E49BB3", "#8FE1B5", "#E1F1E1"]
+
+[metadata]
+name = "Mossglade"
+author = "Textce"

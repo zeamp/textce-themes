@@ -1,0 +1,23 @@
+# Glacier - MIT License
+background = 2C323D
+foreground = D8DEE9
+cursor-color = 88C0D0
+cursor-text = 2C323D
+selection-background = 495F6C
+selection-foreground = D8DEE9
+palette = 0=#40495A
+palette = 1=#DEAFB6
+palette = 2=#BEE4D1
+palette = 3=#E4DFBE
+palette = 4=#AFCBDE
+palette = 5=#C5AFDE
+palette = 6=#BEDFE4
+palette = 7=#C2C8D2
+palette = 8=#747A85
+palette = 9=#EBCBD0
+palette = 10=#DAF0E5
+palette = 11=#F0EEDA
+palette = 12=#CBDEEB
+palette = 13=#DACBEB
+palette = 14=#DAEEF0
+palette = 15=#EAEDF3

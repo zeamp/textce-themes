@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Mossglade",
+            "background": "#1A2C21",
+            "foreground": "#C8E6C9",
+            "cursorColor": "#7CB342",
+            "selectionBackground": "#39572C",
+            "black": "#2B4735",
+            "brightBlack": "#637A68",
+            "red": "#D19261",
+            "brightRed": "#DCA87F",
+            "green": "#85D671",
+            "brightGreen": "#9FE18F",
+            "yellow": "#BED671",
+            "brightYellow": "#CDE18F",
+            "blue": "#61D1CA",
+            "brightBlue": "#7FDCD6",
+            "purple": "#D97D9B",
+            "brightPurple": "#E49BB3",
+            "cyan": "#71D6A0",
+            "brightCyan": "#8FE1B5",
+            "white": "#B4CFB5",
+            "brightWhite": "#E1F1E1"
+        }
+    ]
+}

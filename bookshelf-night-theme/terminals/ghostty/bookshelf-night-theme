@@ -1,0 +1,23 @@
+# Bookshelf Night - MIT License
+background = 231D19
+foreground = E6DBCF
+cursor-color = EFCB8A
+cursor-text = 231D19
+selection-background = 4A3F2E
+selection-foreground = E6DBCF
+palette = 0=#433830
+palette = 1=#E0786B
+palette = 2=#9CC27A
+palette = 3=#EFCB8A
+palette = 4=#7FB2D1
+palette = 5=#C79BC7
+palette = 6=#5CC4B7
+palette = 7=#DCCEC3
+palette = 8=#6B5A4C
+palette = 9=#F08F82
+palette = 10=#B2D68F
+palette = 11=#F5DBA3
+palette = 12=#9AC7E3
+palette = 13=#DDB4DD
+palette = 14=#7DD8CC
+palette = 15=#F3EBE1
