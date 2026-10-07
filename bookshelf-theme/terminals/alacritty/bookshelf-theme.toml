@@ -1,0 +1,32 @@
+# Bookshelf - MIT License
+[colors.primary]
+background = "#E6DBCF"
+foreground = "#22504C"
+
+[colors.cursor]
+text = "#E6DBCF"
+cursor = "#0B615A"
+
+[colors.selection]
+text = "#22504C"
+background = "#EFCB8A"
+
+[colors.normal]
+black = "#3B2F27"
+red = "#8B2A3A"
+green = "#2F6B3A"
+yellow = "#7A5A0C"
+blue = "#2F5F7F"
+magenta = "#6D3A6D"
+cyan = "#0B615A"
+white = "#CBBBAA"
+
+[colors.bright]
+black = "#6B5443"
+red = "#A8452F"
+green = "#4F7A2A"
+yellow = "#8F6A10"
+blue = "#3C7396"
+magenta = "#8A4E8A"
+cyan = "#2A8C82"
+white = "#EFE6DB"

@@ -1,0 +1,35 @@
+/* Bookshelf - MIT License */
+:root{
+  --tc-bg:#E6DBCF;
+  --tc-bg-alt:#DCCEC3;
+  --tc-bg-deep:#D3C4B7;
+  --tc-paper:#EFE6DB;
+  --tc-border:#C9B9AA;
+  --tc-fg:#22504C;
+  --tc-muted:#6B5443;
+  --tc-faint:#8C7868;
+  --tc-accent:#2A8C82;
+  --tc-accent-deep:#0B615A;
+  --tc-highlight:#EFCB8A;
+  --tc-selection:#EFCB8A;
+  --tc-red:#8B2A3A;
+  --tc-green:#2F6B3A;
+  --tc-yellow:#7A5A0C;
+  --tc-blue:#2F5F7F;
+  --tc-magenta:#6D3A6D;
+  --tc-cyan:#0B615A;
+  --tc-orange:#9A3F1D;
+  --tc-error:#DB332E;
+  --tc-warning:#E69E17;
+  --tc-success:#29A057;
+  --tc-nick-1:#0B615A;
+  --tc-nick-2:#2F6B3A;
+  --tc-nick-3:#7B4A2A;
+  --tc-nick-4:#9A3F1D;
+  --tc-nick-5:#8B2A3A;
+  --tc-nick-6:#6D3A6D;
+  color-scheme:light;
+}
+body{background:var(--tc-bg);color:var(--tc-fg)}
+a{color:var(--tc-accent-deep)}
+::selection{background:var(--tc-selection)}

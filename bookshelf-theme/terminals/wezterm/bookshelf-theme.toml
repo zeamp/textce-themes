@@ -1,0 +1,15 @@
+# Bookshelf - MIT License
+[colors]
+foreground = "#22504C"
+background = "#E6DBCF"
+cursor_bg = "#0B615A"
+cursor_fg = "#E6DBCF"
+cursor_border = "#0B615A"
+selection_fg = "#22504C"
+selection_bg = "#EFCB8A"
+ansi = ["#3B2F27", "#8B2A3A", "#2F6B3A", "#7A5A0C", "#2F5F7F", "#6D3A6D", "#0B615A", "#CBBBAA"]
+brights = ["#6B5443", "#A8452F", "#4F7A2A", "#8F6A10", "#3C7396", "#8A4E8A", "#2A8C82", "#EFE6DB"]
+
+[metadata]
+name = "Bookshelf"
+author = "Textce"

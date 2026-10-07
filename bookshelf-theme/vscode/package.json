@@ -1,0 +1,28 @@
+{
+  "name": "bookshelf-theme",
+  "displayName": "Bookshelf",
+  "description": "Bookshelf: a Textce color theme.",
+  "version": "1.0.0",
+  "publisher": "textce",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "textce"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bookshelf",
+        "uiTheme": "vs",
+        "path": "./themes/bookshelf-theme-color-theme.json"
+      }
+    ]
+  }
+}

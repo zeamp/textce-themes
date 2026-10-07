@@ -1,0 +1,23 @@
+# Bookshelf - MIT License
+background = E6DBCF
+foreground = 22504C
+cursor-color = 0B615A
+cursor-text = E6DBCF
+selection-background = EFCB8A
+selection-foreground = 22504C
+palette = 0=#3B2F27
+palette = 1=#8B2A3A
+palette = 2=#2F6B3A
+palette = 3=#7A5A0C
+palette = 4=#2F5F7F
+palette = 5=#6D3A6D
+palette = 6=#0B615A
+palette = 7=#CBBBAA
+palette = 8=#6B5443
+palette = 9=#A8452F
+palette = 10=#4F7A2A
+palette = 11=#8F6A10
+palette = 12=#3C7396
+palette = 13=#8A4E8A
+palette = 14=#2A8C82
+palette = 15=#EFE6DB

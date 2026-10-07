@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Bookshelf",
+            "background": "#E6DBCF",
+            "foreground": "#22504C",
+            "cursorColor": "#0B615A",
+            "selectionBackground": "#EFCB8A",
+            "black": "#3B2F27",
+            "brightBlack": "#6B5443",
+            "red": "#8B2A3A",
+            "brightRed": "#A8452F",
+            "green": "#2F6B3A",
+            "brightGreen": "#4F7A2A",
+            "yellow": "#7A5A0C",
+            "brightYellow": "#8F6A10",
+            "blue": "#2F5F7F",
+            "brightBlue": "#3C7396",
+            "purple": "#6D3A6D",
+            "brightPurple": "#8A4E8A",
+            "cyan": "#0B615A",
+            "brightCyan": "#2A8C82",
+            "white": "#CBBBAA",
+            "brightWhite": "#EFE6DB"
+        }
+    ]
+}
