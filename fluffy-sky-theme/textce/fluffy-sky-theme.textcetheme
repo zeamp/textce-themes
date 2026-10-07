@@ -1,0 +1,18 @@
+{
+  "name": "Fluffy Sky",
+  "author": "Textce",
+  "base": "textceDark",
+  "appearance": "dark",
+  "colors": {
+    "chatBackground": "#332445",
+    "text": "#FFF0F5",
+    "event": "#B0A0D0",
+    "link": "#FF80AB",
+    "mention": "#FFCE1B",
+    "accent": "#FF69B4",
+    "userlistBackground": "#2B1E3E",
+    "sidebarBackground": "#2B1E3E",
+    "inputBackground": "#423159",
+    "divider": "#513C6E"
+  }
+}

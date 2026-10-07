@@ -1,0 +1,20 @@
+! Neon Arcade - MIT License
+*.background: #231A3A
+*.foreground: #E0E0FF
+*.cursorColor: #FF71CE
+*.color0: #422966
+*.color1: #FF4778
+*.color2: #7CFF5C
+*.color3: #FFEF5C
+*.color4: #6689FF
+*.color5: #FF47DA
+*.color6: #5CEFFF
+*.color7: #CACAE6
+*.color8: #726D8D
+*.color9: #FF7096
+*.color10: #9DFF85
+*.color11: #FFF385
+*.color12: #8FA8FF
+*.color13: #FF70E2
+*.color14: #85F3FF
+*.color15: #EEEEFF

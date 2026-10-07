@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Fluffy Sky",
+            "background": "#332445",
+            "foreground": "#FFF0F5",
+            "cursorColor": "#FF69B4",
+            "selectionBackground": "#743A69",
+            "black": "#513C6E",
+            "brightBlack": "#897A8F",
+            "red": "#F4909D",
+            "brightRed": "#F9B4BD",
+            "green": "#A2F6CF",
+            "brightGreen": "#C6FBE2",
+            "yellow": "#F6E0A2",
+            "brightYellow": "#FBEDC6",
+            "blue": "#90BBF4",
+            "brightBlue": "#B4D2F9",
+            "purple": "#F490F1",
+            "brightPurple": "#F9B4F7",
+            "cyan": "#A2F0F6",
+            "brightCyan": "#C6F7FB",
+            "white": "#E6D8DC",
+            "brightWhite": "#FFF7FA"
+        }
+    ]
+}

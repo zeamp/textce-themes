@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Tidepool",
+            "background": "#002934",
+            "foreground": "#93A1A1",
+            "cursorColor": "#268BD2",
+            "selectionBackground": "#0C4867",
+            "black": "#0A4958",
+            "brightBlack": "#3E5B62",
+            "red": "#E76E72",
+            "brightRed": "#EF8F92",
+            "green": "#58E4BA",
+            "brightGreen": "#79ECC9",
+            "yellow": "#E4B558",
+            "brightYellow": "#ECC579",
+            "blue": "#6196E5",
+            "brightBlue": "#82ADED",
+            "purple": "#E76AA8",
+            "brightPurple": "#EF8BBD",
+            "cyan": "#58CDE4",
+            "brightCyan": "#79D9EC",
+            "white": "#849191",
+            "brightWhite": "#C4CBCB"
+        }
+    ]
+}

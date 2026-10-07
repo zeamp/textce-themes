@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Neon Arcade",
+            "background": "#231A3A",
+            "foreground": "#E0E0FF",
+            "cursorColor": "#FF71CE",
+            "selectionBackground": "#693669",
+            "black": "#422966",
+            "brightBlack": "#726D8D",
+            "red": "#FF4778",
+            "brightRed": "#FF7096",
+            "green": "#7CFF5C",
+            "brightGreen": "#9DFF85",
+            "yellow": "#FFEF5C",
+            "brightYellow": "#FFF385",
+            "blue": "#6689FF",
+            "brightBlue": "#8FA8FF",
+            "purple": "#FF47DA",
+            "brightPurple": "#FF70E2",
+            "cyan": "#5CEFFF",
+            "brightCyan": "#85F3FF",
+            "white": "#CACAE6",
+            "brightWhite": "#EEEEFF"
+        }
+    ]
+}

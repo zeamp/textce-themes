@@ -1,0 +1,28 @@
+{
+  "name": "white-theme",
+  "displayName": "White",
+  "description": "White: a Textce color theme.",
+  "version": "1.0.0",
+  "publisher": "textce",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "textce"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "White",
+        "uiTheme": "vs",
+        "path": "./themes/white-theme-color-theme.json"
+      }
+    ]
+  }
+}

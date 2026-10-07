@@ -1,0 +1,35 @@
+/* Textce - MIT License */
+:root{
+  --tc-bg:#2A2A2A;
+  --tc-bg-alt:#2F2F2F;
+  --tc-bg-deep:#222222;
+  --tc-paper:#1E1E1E;
+  --tc-border:#3D3D3D;
+  --tc-fg:#E6E6E6;
+  --tc-muted:#C4C4C4;
+  --tc-faint:#9F9F9F;
+  --tc-accent:#8E8E93;
+  --tc-accent-deep:#F2F2F2;
+  --tc-highlight:#FFCE1B;
+  --tc-selection:#4A4A4C;
+  --tc-red:#C18E8B;
+  --tc-green:#95C6A4;
+  --tc-yellow:#C6B995;
+  --tc-blue:#88A5BF;
+  --tc-magenta:#B18FC3;
+  --tc-cyan:#95C6BF;
+  --tc-orange:#BFA188;
+  --tc-error:#D0A7A5;
+  --tc-warning:#BFA188;
+  --tc-success:#95C6A4;
+  --tc-nick-1:#5CA0FF;
+  --tc-nick-2:#FF5050;
+  --tc-nick-3:#30D060;
+  --tc-nick-4:#E0A030;
+  --tc-nick-5:#C070F0;
+  --tc-nick-6:#00917F;
+  color-scheme:dark;
+}
+body{background:var(--tc-bg);color:var(--tc-fg)}
+a{color:var(--tc-accent-deep)}
+::selection{background:var(--tc-selection)}

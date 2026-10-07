@@ -1,0 +1,32 @@
+# White - MIT License
+[colors.primary]
+background = "#FAFAFA"
+foreground = "#212121"
+
+[colors.cursor]
+text = "#FAFAFA"
+cursor = "#009688"
+
+[colors.selection]
+text = "#212121"
+background = "#FDE27F"
+
+[colors.normal]
+black = "#212121"
+red = "#D40000"
+green = "#1D823C"
+yellow = "#8A5F00"
+blue = "#0058D6"
+magenta = "#9A2BD8"
+cyan = "#007D6D"
+white = "#E0E0E0"
+
+[colors.bright]
+black = "#5E5E5E"
+red = "#DC3737"
+green = "#4E9C66"
+yellow = "#A38137"
+blue = "#377CDE"
+magenta = "#AF59DF"
+cyan = "#37988C"
+white = "#EFEFEF"

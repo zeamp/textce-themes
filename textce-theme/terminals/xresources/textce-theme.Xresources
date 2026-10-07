@@ -1,0 +1,20 @@
+! Textce - MIT License
+*.background: #2A2A2A
+*.foreground: #E6E6E6
+*.cursorColor: #8E8E93
+*.color0: #3D3D3D
+*.color1: #C18E8B
+*.color2: #95C6A4
+*.color3: #C6B995
+*.color4: #88A5BF
+*.color5: #B18FC3
+*.color6: #95C6BF
+*.color7: #CFCFCF
+*.color8: #797979
+*.color9: #D0A7A5
+*.color10: #AFD5BA
+*.color11: #D5CBAF
+*.color12: #A2B9CE
+*.color13: #C4A9D2
+*.color14: #AFD5D0
+*.color15: #F1F1F1

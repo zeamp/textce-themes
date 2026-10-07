@@ -1,0 +1,23 @@
+# White - MIT License
+background = FAFAFA
+foreground = 212121
+cursor-color = 009688
+cursor-text = FAFAFA
+selection-background = FDE27F
+selection-foreground = 212121
+palette = 0=#212121
+palette = 1=#D40000
+palette = 2=#1D823C
+palette = 3=#8A5F00
+palette = 4=#0058D6
+palette = 5=#9A2BD8
+palette = 6=#007D6D
+palette = 7=#E0E0E0
+palette = 8=#5E5E5E
+palette = 9=#DC3737
+palette = 10=#4E9C66
+palette = 11=#A38137
+palette = 12=#377CDE
+palette = 13=#AF59DF
+palette = 14=#37988C
+palette = 15=#EFEFEF

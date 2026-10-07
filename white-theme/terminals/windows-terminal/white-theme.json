@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "White",
+            "background": "#FAFAFA",
+            "foreground": "#212121",
+            "cursorColor": "#009688",
+            "selectionBackground": "#FDE27F",
+            "black": "#212121",
+            "brightBlack": "#5E5E5E",
+            "red": "#D40000",
+            "brightRed": "#DC3737",
+            "green": "#1D823C",
+            "brightGreen": "#4E9C66",
+            "yellow": "#8A5F00",
+            "brightYellow": "#A38137",
+            "blue": "#0058D6",
+            "brightBlue": "#377CDE",
+            "purple": "#9A2BD8",
+            "brightPurple": "#AF59DF",
+            "cyan": "#007D6D",
+            "brightCyan": "#37988C",
+            "white": "#E0E0E0",
+            "brightWhite": "#EFEFEF"
+        }
+    ]
+}

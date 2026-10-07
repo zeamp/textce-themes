@@ -1,0 +1,32 @@
+# Neon Arcade - MIT License
+[colors.primary]
+background = "#231A3A"
+foreground = "#E0E0FF"
+
+[colors.cursor]
+text = "#231A3A"
+cursor = "#FF71CE"
+
+[colors.selection]
+text = "#E0E0FF"
+background = "#693669"
+
+[colors.normal]
+black = "#422966"
+red = "#FF4778"
+green = "#7CFF5C"
+yellow = "#FFEF5C"
+blue = "#6689FF"
+magenta = "#FF47DA"
+cyan = "#5CEFFF"
+white = "#CACAE6"
+
+[colors.bright]
+black = "#726D8D"
+red = "#FF7096"
+green = "#9DFF85"
+yellow = "#FFF385"
+blue = "#8FA8FF"
+magenta = "#FF70E2"
+cyan = "#85F3FF"
+white = "#EEEEFF"

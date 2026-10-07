@@ -1,0 +1,15 @@
+# Neon Arcade - MIT License
+[colors]
+foreground = "#E0E0FF"
+background = "#231A3A"
+cursor_bg = "#FF71CE"
+cursor_fg = "#231A3A"
+cursor_border = "#FF71CE"
+selection_fg = "#E0E0FF"
+selection_bg = "#693669"
+ansi = ["#422966", "#FF4778", "#7CFF5C", "#FFEF5C", "#6689FF", "#FF47DA", "#5CEFFF", "#CACAE6"]
+brights = ["#726D8D", "#FF7096", "#9DFF85", "#FFF385", "#8FA8FF", "#FF70E2", "#85F3FF", "#EEEEFF"]
+
+[metadata]
+name = "Neon Arcade"
+author = "Textce"

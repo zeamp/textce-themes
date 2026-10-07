@@ -1,0 +1,23 @@
+# Tidepool - MIT License
+background = 002934
+foreground = 93A1A1
+cursor-color = 268BD2
+cursor-text = 002934
+selection-background = 0C4867
+selection-foreground = 93A1A1
+palette = 0=#0A4958
+palette = 1=#E76E72
+palette = 2=#58E4BA
+palette = 3=#E4B558
+palette = 4=#6196E5
+palette = 5=#E76AA8
+palette = 6=#58CDE4
+palette = 7=#849191
+palette = 8=#3E5B62
+palette = 9=#EF8F92
+palette = 10=#79ECC9
+palette = 11=#ECC579
+palette = 12=#82ADED
+palette = 13=#EF8BBD
+palette = 14=#79D9EC
+palette = 15=#C4CBCB

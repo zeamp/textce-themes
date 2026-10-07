@@ -1,0 +1,15 @@
+# Fluffy Sky - MIT License
+[colors]
+foreground = "#FFF0F5"
+background = "#332445"
+cursor_bg = "#FF69B4"
+cursor_fg = "#332445"
+cursor_border = "#FF69B4"
+selection_fg = "#FFF0F5"
+selection_bg = "#743A69"
+ansi = ["#513C6E", "#F4909D", "#A2F6CF", "#F6E0A2", "#90BBF4", "#F490F1", "#A2F0F6", "#E6D8DC"]
+brights = ["#897A8F", "#F9B4BD", "#C6FBE2", "#FBEDC6", "#B4D2F9", "#F9B4F7", "#C6F7FB", "#FFF7FA"]
+
+[metadata]
+name = "Fluffy Sky"
+author = "Textce"

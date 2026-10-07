@@ -1,0 +1,32 @@
+# Tidepool - MIT License
+[colors.primary]
+background = "#002934"
+foreground = "#93A1A1"
+
+[colors.cursor]
+text = "#002934"
+cursor = "#268BD2"
+
+[colors.selection]
+text = "#93A1A1"
+background = "#0C4867"
+
+[colors.normal]
+black = "#0A4958"
+red = "#E76E72"
+green = "#58E4BA"
+yellow = "#E4B558"
+blue = "#6196E5"
+magenta = "#E76AA8"
+cyan = "#58CDE4"
+white = "#849191"
+
+[colors.bright]
+black = "#3E5B62"
+red = "#EF8F92"
+green = "#79ECC9"
+yellow = "#ECC579"
+blue = "#82ADED"
+magenta = "#EF8BBD"
+cyan = "#79D9EC"
+white = "#C4CBCB"

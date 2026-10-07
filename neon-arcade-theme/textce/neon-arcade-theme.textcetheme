@@ -1,0 +1,18 @@
+{
+  "name": "Neon Arcade",
+  "author": "Textce",
+  "base": "textceDark",
+  "appearance": "dark",
+  "colors": {
+    "chatBackground": "#231A3A",
+    "text": "#E0E0FF",
+    "event": "#36F9F6",
+    "link": "#F97E72",
+    "mention": "#FFCE1B",
+    "accent": "#FF71CE",
+    "userlistBackground": "#1D1631",
+    "sidebarBackground": "#1D1631",
+    "inputBackground": "#2E214C",
+    "divider": "#422966"
+  }
+}

@@ -1,0 +1,20 @@
+! Fluffy Sky - MIT License
+*.background: #332445
+*.foreground: #FFF0F5
+*.cursorColor: #FF69B4
+*.color0: #513C6E
+*.color1: #F4909D
+*.color2: #A2F6CF
+*.color3: #F6E0A2
+*.color4: #90BBF4
+*.color5: #F490F1
+*.color6: #A2F0F6
+*.color7: #E6D8DC
+*.color8: #897A8F
+*.color9: #F9B4BD
+*.color10: #C6FBE2
+*.color11: #FBEDC6
+*.color12: #B4D2F9
+*.color13: #F9B4F7
+*.color14: #C6F7FB
+*.color15: #FFF7FA

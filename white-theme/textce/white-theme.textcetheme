@@ -1,0 +1,18 @@
+{
+  "name": "White",
+  "author": "Textce",
+  "base": "textceLight",
+  "appearance": "light",
+  "colors": {
+    "chatBackground": "#FAFAFA",
+    "text": "#212121",
+    "event": "#757575",
+    "link": "#00838F",
+    "mention": "#FFCE1B",
+    "accent": "#009688",
+    "userlistBackground": "#F5F5F5",
+    "sidebarBackground": "#F5F5F5",
+    "inputBackground": "#EFEFEF",
+    "divider": "#E0E0E0"
+  }
+}

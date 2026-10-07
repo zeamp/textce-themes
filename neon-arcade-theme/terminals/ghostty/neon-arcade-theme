@@ -1,0 +1,23 @@
+# Neon Arcade - MIT License
+background = 231A3A
+foreground = E0E0FF
+cursor-color = FF71CE
+cursor-text = 231A3A
+selection-background = 693669
+selection-foreground = E0E0FF
+palette = 0=#422966
+palette = 1=#FF4778
+palette = 2=#7CFF5C
+palette = 3=#FFEF5C
+palette = 4=#6689FF
+palette = 5=#FF47DA
+palette = 6=#5CEFFF
+palette = 7=#CACAE6
+palette = 8=#726D8D
+palette = 9=#FF7096
+palette = 10=#9DFF85
+palette = 11=#FFF385
+palette = 12=#8FA8FF
+palette = 13=#FF70E2
+palette = 14=#85F3FF
+palette = 15=#EEEEFF

@@ -1,0 +1,28 @@
+{
+  "name": "neon-arcade-theme",
+  "displayName": "Neon Arcade",
+  "description": "Neon Arcade: a Textce color theme.",
+  "version": "1.0.0",
+  "publisher": "textce",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "textce"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Arcade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-arcade-theme-color-theme.json"
+      }
+    ]
+  }
+}

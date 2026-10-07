@@ -1,0 +1,15 @@
+# Textce - MIT License
+[colors]
+foreground = "#E6E6E6"
+background = "#2A2A2A"
+cursor_bg = "#8E8E93"
+cursor_fg = "#2A2A2A"
+cursor_border = "#8E8E93"
+selection_fg = "#E6E6E6"
+selection_bg = "#4A4A4C"
+ansi = ["#3D3D3D", "#C18E8B", "#95C6A4", "#C6B995", "#88A5BF", "#B18FC3", "#95C6BF", "#CFCFCF"]
+brights = ["#797979", "#D0A7A5", "#AFD5BA", "#D5CBAF", "#A2B9CE", "#C4A9D2", "#AFD5D0", "#F1F1F1"]
+
+[metadata]
+name = "Textce"
+author = "Textce"

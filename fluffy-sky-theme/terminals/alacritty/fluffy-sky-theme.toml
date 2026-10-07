@@ -1,0 +1,32 @@
+# Fluffy Sky - MIT License
+[colors.primary]
+background = "#332445"
+foreground = "#FFF0F5"
+
+[colors.cursor]
+text = "#332445"
+cursor = "#FF69B4"
+
+[colors.selection]
+text = "#FFF0F5"
+background = "#743A69"
+
+[colors.normal]
+black = "#513C6E"
+red = "#F4909D"
+green = "#A2F6CF"
+yellow = "#F6E0A2"
+blue = "#90BBF4"
+magenta = "#F490F1"
+cyan = "#A2F0F6"
+white = "#E6D8DC"
+
+[colors.bright]
+black = "#897A8F"
+red = "#F9B4BD"
+green = "#C6FBE2"
+yellow = "#FBEDC6"
+blue = "#B4D2F9"
+magenta = "#F9B4F7"
+cyan = "#C6F7FB"
+white = "#FFF7FA"

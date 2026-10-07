@@ -1,0 +1,15 @@
+# Tidepool - MIT License
+[colors]
+foreground = "#93A1A1"
+background = "#002934"
+cursor_bg = "#268BD2"
+cursor_fg = "#002934"
+cursor_border = "#268BD2"
+selection_fg = "#93A1A1"
+selection_bg = "#0C4867"
+ansi = ["#0A4958", "#E76E72", "#58E4BA", "#E4B558", "#6196E5", "#E76AA8", "#58CDE4", "#849191"]
+brights = ["#3E5B62", "#EF8F92", "#79ECC9", "#ECC579", "#82ADED", "#EF8BBD", "#79D9EC", "#C4CBCB"]
+
+[metadata]
+name = "Tidepool"
+author = "Textce"

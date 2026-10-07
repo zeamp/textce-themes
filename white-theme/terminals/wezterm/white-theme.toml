@@ -1,0 +1,15 @@
+# White - MIT License
+[colors]
+foreground = "#212121"
+background = "#FAFAFA"
+cursor_bg = "#009688"
+cursor_fg = "#FAFAFA"
+cursor_border = "#009688"
+selection_fg = "#212121"
+selection_bg = "#FDE27F"
+ansi = ["#212121", "#D40000", "#1D823C", "#8A5F00", "#0058D6", "#9A2BD8", "#007D6D", "#E0E0E0"]
+brights = ["#5E5E5E", "#DC3737", "#4E9C66", "#A38137", "#377CDE", "#AF59DF", "#37988C", "#EFEFEF"]
+
+[metadata]
+name = "White"
+author = "Textce"

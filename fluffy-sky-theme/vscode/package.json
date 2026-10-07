@@ -1,0 +1,28 @@
+{
+  "name": "fluffy-sky-theme",
+  "displayName": "Fluffy Sky",
+  "description": "Fluffy Sky: a Textce color theme.",
+  "version": "1.0.0",
+  "publisher": "textce",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "textce"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fluffy Sky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fluffy-sky-theme-color-theme.json"
+      }
+    ]
+  }
+}

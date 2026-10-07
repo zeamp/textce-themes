@@ -1,0 +1,23 @@
+# Textce - MIT License
+background = 2A2A2A
+foreground = E6E6E6
+cursor-color = 8E8E93
+cursor-text = 2A2A2A
+selection-background = 4A4A4C
+selection-foreground = E6E6E6
+palette = 0=#3D3D3D
+palette = 1=#C18E8B
+palette = 2=#95C6A4
+palette = 3=#C6B995
+palette = 4=#88A5BF
+palette = 5=#B18FC3
+palette = 6=#95C6BF
+palette = 7=#CFCFCF
+palette = 8=#797979
+palette = 9=#D0A7A5
+palette = 10=#AFD5BA
+palette = 11=#D5CBAF
+palette = 12=#A2B9CE
+palette = 13=#C4A9D2
+palette = 14=#AFD5D0
+palette = 15=#F1F1F1
