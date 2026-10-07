@@ -1,0 +1,23 @@
+# BX - MIT License
+background = 000000
+foreground = C0C0C0
+cursor-color = FFD700
+cursor-text = 000000
+selection-background = 524500
+selection-foreground = C0C0C0
+palette = 0=#2A2A2A
+palette = 1=#FF3D3D
+palette = 2=#52FF52
+palette = 3=#FFFF52
+palette = 4=#4272FF
+palette = 5=#FF3DFF
+palette = 6=#52FFFF
+palette = 7=#ADADAD
+palette = 8=#515151
+palette = 9=#FF6666
+palette = 10=#7BFF7B
+palette = 11=#FFFF7B
+palette = 12=#6B90FF
+palette = 13=#FF66FF
+palette = 14=#7BFFFF
+palette = 15=#DCDCDC

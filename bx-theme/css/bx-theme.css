@@ -1,0 +1,35 @@
+/* BX - MIT License */
+:root{
+  --tc-bg:#000000;
+  --tc-bg-alt:#000000;
+  --tc-bg-deep:#000000;
+  --tc-paper:#000000;
+  --tc-border:#2A2A2A;
+  --tc-fg:#C0C0C0;
+  --tc-muted:#9D9D9D;
+  --tc-faint:#777777;
+  --tc-accent:#FFD700;
+  --tc-accent-deep:#00FFFF;
+  --tc-highlight:#FFCE1B;
+  --tc-selection:#524500;
+  --tc-red:#FF3D3D;
+  --tc-green:#52FF52;
+  --tc-yellow:#FFFF52;
+  --tc-blue:#4272FF;
+  --tc-magenta:#FF3DFF;
+  --tc-cyan:#52FFFF;
+  --tc-orange:#FF9E3D;
+  --tc-error:#FF6666;
+  --tc-warning:#FF9E3D;
+  --tc-success:#52FF52;
+  --tc-nick-1:#00FF00;
+  --tc-nick-2:#00FFFF;
+  --tc-nick-3:#FFFF00;
+  --tc-nick-4:#FF00FF;
+  --tc-nick-5:#FFFFFF;
+  --tc-nick-6:#FF8000;
+  color-scheme:dark;
+}
+body{background:var(--tc-bg);color:var(--tc-fg)}
+a{color:var(--tc-accent-deep)}
+::selection{background:var(--tc-selection)}

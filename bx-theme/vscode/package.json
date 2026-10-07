@@ -1,0 +1,28 @@
+{
+  "name": "bx-theme",
+  "displayName": "BX",
+  "description": "BX: a Textce color theme.",
+  "version": "1.0.0",
+  "publisher": "textce",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "textce"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bx-theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "BX",
+            "background": "#000000",
+            "foreground": "#C0C0C0",
+            "cursorColor": "#FFD700",
+            "selectionBackground": "#524500",
+            "black": "#2A2A2A",
+            "brightBlack": "#515151",
+            "red": "#FF3D3D",
+            "brightRed": "#FF6666",
+            "green": "#52FF52",
+            "brightGreen": "#7BFF7B",
+            "yellow": "#FFFF52",
+            "brightYellow": "#FFFF7B",
+            "blue": "#4272FF",
+            "brightBlue": "#6B90FF",
+            "purple": "#FF3DFF",
+            "brightPurple": "#FF66FF",
+            "cyan": "#52FFFF",
+            "brightCyan": "#7BFFFF",
+            "white": "#ADADAD",
+            "brightWhite": "#DCDCDC"
+        }
+    ]
+}

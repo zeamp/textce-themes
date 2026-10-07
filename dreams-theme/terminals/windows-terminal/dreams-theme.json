@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Dreams",
+            "background": "#262834",
+            "foreground": "#F8F8F2",
+            "cursorColor": "#BD93F9",
+            "selectionBackground": "#564A73",
+            "black": "#414456",
+            "brightBlack": "#7E7F84",
+            "red": "#F67992",
+            "brightRed": "#FA9DB0",
+            "green": "#8CF8AC",
+            "brightGreen": "#B1FCC7",
+            "yellow": "#F4F88C",
+            "brightYellow": "#F9FCB1",
+            "blue": "#8392F7",
+            "brightBlue": "#A8B3FB",
+            "purple": "#D179F6",
+            "brightPurple": "#DF9DFA",
+            "cyan": "#8CE2F8",
+            "brightCyan": "#B1EDFC",
+            "white": "#DFDFDA",
+            "brightWhite": "#FBFBF8"
+        }
+    ]
+}

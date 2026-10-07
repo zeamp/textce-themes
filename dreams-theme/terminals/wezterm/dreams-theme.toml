@@ -1,0 +1,15 @@
+# Dreams - MIT License
+[colors]
+foreground = "#F8F8F2"
+background = "#262834"
+cursor_bg = "#BD93F9"
+cursor_fg = "#262834"
+cursor_border = "#BD93F9"
+selection_fg = "#F8F8F2"
+selection_bg = "#564A73"
+ansi = ["#414456", "#F67992", "#8CF8AC", "#F4F88C", "#8392F7", "#D179F6", "#8CE2F8", "#DFDFDA"]
+brights = ["#7E7F84", "#FA9DB0", "#B1FCC7", "#F9FCB1", "#A8B3FB", "#DF9DFA", "#B1EDFC", "#FBFBF8"]
+
+[metadata]
+name = "Dreams"
+author = "Textce"

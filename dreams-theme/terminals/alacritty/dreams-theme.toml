@@ -1,0 +1,32 @@
+# Dreams - MIT License
+[colors.primary]
+background = "#262834"
+foreground = "#F8F8F2"
+
+[colors.cursor]
+text = "#262834"
+cursor = "#BD93F9"
+
+[colors.selection]
+text = "#F8F8F2"
+background = "#564A73"
+
+[colors.normal]
+black = "#414456"
+red = "#F67992"
+green = "#8CF8AC"
+yellow = "#F4F88C"
+blue = "#8392F7"
+magenta = "#D179F6"
+cyan = "#8CE2F8"
+white = "#DFDFDA"
+
+[colors.bright]
+black = "#7E7F84"
+red = "#FA9DB0"
+green = "#B1FCC7"
+yellow = "#F9FCB1"
+blue = "#A8B3FB"
+magenta = "#DF9DFA"
+cyan = "#B1EDFC"
+white = "#FBFBF8"

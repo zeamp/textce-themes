@@ -1,0 +1,15 @@
+# BX - MIT License
+[colors]
+foreground = "#C0C0C0"
+background = "#000000"
+cursor_bg = "#FFD700"
+cursor_fg = "#000000"
+cursor_border = "#FFD700"
+selection_fg = "#C0C0C0"
+selection_bg = "#524500"
+ansi = ["#2A2A2A", "#FF3D3D", "#52FF52", "#FFFF52", "#4272FF", "#FF3DFF", "#52FFFF", "#ADADAD"]
+brights = ["#515151", "#FF6666", "#7BFF7B", "#FFFF7B", "#6B90FF", "#FF66FF", "#7BFFFF", "#DCDCDC"]
+
+[metadata]
+name = "BX"
+author = "Textce"

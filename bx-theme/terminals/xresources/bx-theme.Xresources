@@ -1,0 +1,20 @@
+! BX - MIT License
+*.background: #000000
+*.foreground: #C0C0C0
+*.cursorColor: #FFD700
+*.color0: #2A2A2A
+*.color1: #FF3D3D
+*.color2: #52FF52
+*.color3: #FFFF52
+*.color4: #4272FF
+*.color5: #FF3DFF
+*.color6: #52FFFF
+*.color7: #ADADAD
+*.color8: #515151
+*.color9: #FF6666
+*.color10: #7BFF7B
+*.color11: #FFFF7B
+*.color12: #6B90FF
+*.color13: #FF66FF
+*.color14: #7BFFFF
+*.color15: #DCDCDC

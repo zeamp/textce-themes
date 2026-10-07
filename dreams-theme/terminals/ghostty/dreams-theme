@@ -1,0 +1,23 @@
+# Dreams - MIT License
+background = 262834
+foreground = F8F8F2
+cursor-color = BD93F9
+cursor-text = 262834
+selection-background = 564A73
+selection-foreground = F8F8F2
+palette = 0=#414456
+palette = 1=#F67992
+palette = 2=#8CF8AC
+palette = 3=#F4F88C
+palette = 4=#8392F7
+palette = 5=#D179F6
+palette = 6=#8CE2F8
+palette = 7=#DFDFDA
+palette = 8=#7E7F84
+palette = 9=#FA9DB0
+palette = 10=#B1FCC7
+palette = 11=#F9FCB1
+palette = 12=#A8B3FB
+palette = 13=#DF9DFA
+palette = 14=#B1EDFC
+palette = 15=#FBFBF8

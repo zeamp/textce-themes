@@ -1,0 +1,32 @@
+# BX - MIT License
+[colors.primary]
+background = "#000000"
+foreground = "#C0C0C0"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#FFD700"
+
+[colors.selection]
+text = "#C0C0C0"
+background = "#524500"
+
+[colors.normal]
+black = "#2A2A2A"
+red = "#FF3D3D"
+green = "#52FF52"
+yellow = "#FFFF52"
+blue = "#4272FF"
+magenta = "#FF3DFF"
+cyan = "#52FFFF"
+white = "#ADADAD"
+
+[colors.bright]
+black = "#515151"
+red = "#FF6666"
+green = "#7BFF7B"
+yellow = "#FFFF7B"
+blue = "#6B90FF"
+magenta = "#FF66FF"
+cyan = "#7BFFFF"
+white = "#DCDCDC"

@@ -1,0 +1,35 @@
+/* Dreams - MIT License */
+:root{
+  --tc-bg:#262834;
+  --tc-bg-alt:#20212A;
+  --tc-bg-deep:#17181E;
+  --tc-paper:#323543;
+  --tc-border:#414456;
+  --tc-fg:#F8F8F2;
+  --tc-muted:#D2D3D0;
+  --tc-faint:#A8A9AA;
+  --tc-accent:#BD93F9;
+  --tc-accent-deep:#FF79C6;
+  --tc-highlight:#FFCE1B;
+  --tc-selection:#564A73;
+  --tc-red:#F67992;
+  --tc-green:#8CF8AC;
+  --tc-yellow:#F4F88C;
+  --tc-blue:#8392F7;
+  --tc-magenta:#D179F6;
+  --tc-cyan:#8CE2F8;
+  --tc-orange:#F6AF79;
+  --tc-error:#FA9DB0;
+  --tc-warning:#F6AF79;
+  --tc-success:#8CF8AC;
+  --tc-nick-1:#5CA0FF;
+  --tc-nick-2:#FF5050;
+  --tc-nick-3:#30D060;
+  --tc-nick-4:#E0A030;
+  --tc-nick-5:#C070F0;
+  --tc-nick-6:#00917F;
+  color-scheme:dark;
+}
+body{background:var(--tc-bg);color:var(--tc-fg)}
+a{color:var(--tc-accent-deep)}
+::selection{background:var(--tc-selection)}
