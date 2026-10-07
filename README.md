@@ -6,7 +6,7 @@
 
 ### *Twelve palettes. Each one, a place to be.*
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-3a9a8e?style=flat-square)](LICENSE) ![Schemes](https://img.shields.io/badge/schemes-12-3a9a8e?style=flat-square) ![Ports](https://img.shields.io/badge/ports-11-3a9a8e?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/license-MIT-3a9a8e?style=flat-square)](LICENSE) ![Schemes](https://img.shields.io/badge/schemes-12-3a9a8e?style=flat-square) ![Ports](https://img.shields.io/badge/ports-12-3a9a8e?style=flat-square)
 
 </div>
 
@@ -39,9 +39,9 @@ Each scheme begins with a mood, then a material. Graphite. Paper. Ice. Embers. O
 
 ## Everywhere you work
 
-Every scheme ships complete, with the same eleven ports:
+Every scheme ships complete, with the same twelve ports:
 
-**Editors:** VS Code, Neovim and Vim
+**Editors:** VS Code, Sublime Text, Neovim and Vim
 **Terminals:** Windows Terminal, iTerm2, Alacritty, kitty, WezTerm, Ghostty, X11
 **Web:** CSS custom properties and Sass variables
 **Apps:** a `.textcetheme` file for [Textce](https://textce.com), where these schemes first appeared
@@ -54,7 +54,7 @@ Beauty that you cannot read is decoration. Every foreground color is measured ag
 
 ## Contributing
 
-Ports for other tools are very welcome: JetBrains, Zed, Sublime Text, tmux, Obsidian, bat, delta and more. Take colors from `palette.json` so every port stays identical, and keep normal text at 4.5 : 1 or better.
+Ports for other tools are very welcome: JetBrains, Zed, tmux, Obsidian, bat, delta and more. Take colors from `palette.json` so every port stays identical, and keep normal text at 4.5 : 1 or better.
 
 ## License
 
