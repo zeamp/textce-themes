@@ -1,0 +1,32 @@
+# Textce - MIT License
+[colors.primary]
+background = "#323232"
+foreground = "#D9D9D9"
+
+[colors.cursor]
+text = "#323232"
+cursor = "#A7A7A7"
+
+[colors.selection]
+text = "#D9D9D9"
+background = "#494949"
+
+[colors.normal]
+black = "#434343"
+red = "#F37571"
+green = "#3BD862"
+yellow = "#FAAC1C"
+blue = "#58AEF3"
+magenta = "#C67EF1"
+cyan = "#35C2B0"
+white = "#D9D9D9"
+
+[colors.bright]
+black = "#6E6E6E"
+red = "#FF9691"
+green = "#6BEA8A"
+yellow = "#FFC857"
+blue = "#8CC8FF"
+magenta = "#D79BFF"
+cyan = "#6FE0D0"
+white = "#F2F2F2"

@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Textce",
+            "background": "#323232",
+            "foreground": "#D9D9D9",
+            "cursorColor": "#A7A7A7",
+            "selectionBackground": "#494949",
+            "black": "#434343",
+            "brightBlack": "#6E6E6E",
+            "red": "#F37571",
+            "brightRed": "#FF9691",
+            "green": "#3BD862",
+            "brightGreen": "#6BEA8A",
+            "yellow": "#FAAC1C",
+            "brightYellow": "#FFC857",
+            "blue": "#58AEF3",
+            "brightBlue": "#8CC8FF",
+            "purple": "#C67EF1",
+            "brightPurple": "#D79BFF",
+            "cyan": "#35C2B0",
+            "brightCyan": "#6FE0D0",
+            "white": "#D9D9D9",
+            "brightWhite": "#F2F2F2"
+        }
+    ]
+}
